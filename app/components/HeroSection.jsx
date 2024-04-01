@@ -8,7 +8,7 @@ const HeroSection =()=>{
         <section>
             <div className="grid grid-cols-1 sm:grid-cols-12">
                 <div className="col-span-7 place-self-center text-center sm:text-left">
-                    <div className="flex justify-start ml-[2.5rem] lg:ml-[.2rem] mb-[10px]"><h1>ASHISH</h1></div>
+                    <div className="flex justify-start ml-[1.5rem] lg:ml-[.2rem] mb-[10px]"><h1>ASHISH</h1></div>
                     <h1 className="text-white mb-4 text-4xl sm:text-5xl lg:text-[42px] font-secondary
                     font-semibold uppercase leading-[1]">
                         Hello,
